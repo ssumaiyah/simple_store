@@ -1,3 +1,4 @@
+require "csv"
 require 'faker'
 
 676.times do
